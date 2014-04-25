@@ -1,0 +1,10 @@
+numProcesses  01 start 0.436067 end 31.662940 timeElapsed 31.226873 serialElapsed 0.060652
+numProcesses  02 start 0.027781 end 17.516156 timeElapsed 17.488375 serialElapsed 0.061205
+numProcesses  03 start 0.763965 end 12.610651 timeElapsed 11.846686 serialElapsed 0.061411
+numProcesses  04 start 0.062854 end 8.702728 timeElapsed 8.639874 serialElapsed 0.954326
+numProcesses  05 start 0.810304 end 11.259761 timeElapsed 10.449457 serialElapsed 0.061269
+numProcesses  06 start 0.701073 end 8.183737 timeElapsed 7.482664 serialElapsed 0.790674
+numProcesses  07 start 0.571725 end 8.130648 timeElapsed 7.558923 serialElapsed 1.945908
+numProcesses  08 start 0.512000 end 7.977830 timeElapsed 7.465830 serialElapsed 1.832877
+numProcesses  09 start 0.392068 end 7.814427 timeElapsed 7.422359 serialElapsed 1.797365
+numProcesses  10 start 0.260131 end 7.703624 timeElapsed 7.443493 serialElapsed 1.830141
